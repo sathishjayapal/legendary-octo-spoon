@@ -1,0 +1,2 @@
+Bucket Name is : amz-sathish-demo
+File Name in Bucket is : hello.txt
